@@ -19,9 +19,13 @@ public class MoveCapsule : MonoBehaviour
     {
         //if (Input.GetMouseButton(0))
         if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.S)) || Input.GetKey(KeyCode.DownArrow);)
+        if (Input.GetKey(KeyCode.A)) || Input.GetKey(KeyCode.LeftArrow);)
+        if (Input.GetKey(KeyCode.D)) || Input.GetKey(KeyCode.RightArrow);)
         {
             this.transform.Translate(moveVector * Time.deltaTime);
             Debug.Log(Time.deltaTime);
+      
         }
     }
 
