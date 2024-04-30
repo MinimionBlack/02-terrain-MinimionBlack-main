@@ -24,7 +24,7 @@ public class PlayerMovement : MonoBehaviour
         GetInput();
         MovePlayer();
 
-        camAnim.SetBool("isWalking", isWalking);
+
     }
     void GetInput()
     {

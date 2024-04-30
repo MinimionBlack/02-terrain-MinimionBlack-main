@@ -6,9 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LevelSelectMenu.unity
+    guid: 4a75056ed5adfde4eba3caf5ff67c6ba
+  - enabled: 1
     path: Assets/Scenes/2024-Terrarin.unity
     guid: a4a4ec55ed054fa4293a11098f89bdd6
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/PhysicsDemo.unity
     guid: bf7a38528fa55414cb19e588fa19d93c
+  - enabled: 1
+    path: Assets/Scenes/02292024 Terrain Experiment.unity
+    guid: 7a8b1dca614e94044956ac88a208735d
+  - enabled: 1
+    path: Assets/Scenes/CubeWorld.unity
+    guid: 9442695deb055be40a8ff0f84ce1e8e8
+  - enabled: 1
+    path: Assets/Scenes/MixamoAnimation.unity
+    guid: 59ce8ff7dcd064c40915aa5a44ce90d8
+  - enabled: 1
+    path: Assets/Scenes/ScriptExperiments.unity
+    guid: 344c7b208cd0c0242bf857ea73eae67a
+  - enabled: 1
+    path: Assets/Scenes/SnapBuilding.unity
+    guid: 9e4564a8a1a2f254a847f6ac40d607fe
   m_configObjects: {}
